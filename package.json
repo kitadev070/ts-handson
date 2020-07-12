@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kitadev070/ts-handson/issues"
   },
-  "homepage": "https://github.com/kitadev070/ts-handson#readme"
+  "homepage": "https://github.com/kitadev070/ts-handson#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
